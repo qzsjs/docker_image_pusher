@@ -1,1 +1,1 @@
-amilys/embyserver 4.8.0.56 
+amilys/embyserver4.8.0.56 
