@@ -1,1 +1,1 @@
-alpine3.18.2
+dockerproxy.com/library/alpine3.18.2 
