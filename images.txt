@@ -1,1 +1,1 @@
-Emby Server 4.9.0.24
+Emby:4.9.0.24
