@@ -1,1 +1,1 @@
-lychee
+linuxserver/lychee
