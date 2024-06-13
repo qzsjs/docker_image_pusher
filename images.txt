@@ -1,1 +1,1 @@
-embyserver:4.9.0.24
+lychee
