@@ -1,1 +1,1 @@
-linuxserver/lychee
+80x60/lychee
